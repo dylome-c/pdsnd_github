@@ -69,3 +69,19 @@ Dataset containing all bikeshare information provided by Udacity. Please note th
 • numpy - One of the libraries used for this.
 
 • time - One of the libraries used for this.
+
+### Acknowledgements:
+
+• Udacity -resources and tutorial Udacity's Data Analyst Nanodegree program
+
+• Reference links
+
+• https://github.com/stephanderton/Explore-US-Bikeshare-Data/blob/master/bikeshare_2.py
+
+• https://www.youtube.com/watch?v=egdfGJaBIh0
+
+• https://www.youtube.com/watch?v=yEST0vy2UBE
+
+• https://www.youtube.com/watch?v=sugvnHA7ElY
+
+• https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
